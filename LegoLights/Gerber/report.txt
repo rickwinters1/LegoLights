@@ -1,11 +1,11 @@
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-F_Cu.gbr'.
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-B_Cu.gbr'.
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-F_Paste.gbr'.
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-B_Paste.gbr'.
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-F_Silkscreen.gbr'.
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-B_Silkscreen.gbr'.
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-F_Mask.gbr'.
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-B_Mask.gbr'.
-Plotted to 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-Edge_Cuts.gbr'.
-Created Gerber job file 'C:\Users\Rick\Documents\KiCad\7.0\projects\LegoLights\LegoLights\Gerber\LegoLights-job.gbrjob'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-F_Cu.gbr'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-B_Cu.gbr'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-F_Paste.gbr'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-B_Paste.gbr'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-F_Silkscreen.gbr'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-B_Silkscreen.gbr'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-F_Mask.gbr'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-B_Mask.gbr'.
+Plotted to 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\GitHub\LegoLights\LegoLights\Gerber\LegoLights-job.gbrjob'.
 Info: Done.
