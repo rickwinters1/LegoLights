@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
-%TF.CreationDate,2024-02-13T21:55:36+01:00*%
+%TF.CreationDate,2024-02-15T20:35:34+01:00*%
 %TF.ProjectId,LegoLights,4c65676f-4c69-4676-9874-732e6b696361,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.10) date 2024-02-13 21:55:36*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-02-15 20:35:34*
 %MOMM*%
 %LPD*%
 G01*
@@ -21,19 +21,19 @@ G04 APERTURE END LIST*
 D10*
 %TO.P,J1,1,Pin_1*%
 %TO.N,GND*%
-X124181000Y-60940000D03*
+X124943000Y-61194000D03*
 D11*
 %TO.P,J1,2,Pin_2*%
 %TO.N,+12V*%
-X124181000Y-58400000D03*
+X124943000Y-58654000D03*
 %TD*%
 D10*
 %TO.P,J2,1,Pin_1*%
 %TO.N,GND*%
-X144780000Y-60990000D03*
+X145542000Y-61244000D03*
 D11*
 %TO.P,J2,2,Pin_2*%
 %TO.N,+12V*%
-X144780000Y-58450000D03*
+X145542000Y-58704000D03*
 %TD*%
 M02*
